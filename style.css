@@ -4,8 +4,8 @@ body {
   justify-content: center;
   align-items: center;
   background-image: url(./images/pattern-background-desktop.svg);
-  background-repeat: no-repeat;
-  background-color: DFE7FD;
+  background-repeat: repeat-x;
+  background-color: #dfe7fd;
 }
 img {
   max-width: 350px;
